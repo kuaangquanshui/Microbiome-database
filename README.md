@@ -1,2 +1,2 @@
-# Microbiome-database
-microbiological related databases, welcome to supplement
+# Microbiome-database website
+microbiological related databases website, welcome to supplement
