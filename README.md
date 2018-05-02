@@ -6,5 +6,4 @@ microbiological related databases website, welcome to supplement
 1.[EBI Metagenomics](https://www.ebi.ac.uk/metagenomics/about)
 # Metataxonomics
 1.[NCBI](https://www.ncbi.nlm.nih.gov/)
-2.[JGI](https://genome.jgi.doe.gov/portal/)
-3.[JGI](https://genome.jgi.doe.gov/Dappu1/Dappu1.home.html)
+2.[JGI](https://genome.jgi.doe.gov/Dappu1/Dappu1.home.html)
